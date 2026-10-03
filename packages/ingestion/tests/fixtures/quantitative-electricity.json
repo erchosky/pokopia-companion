@@ -1,0 +1,269 @@
+{
+  "sourceUrl": "https://www.serebii.net/pokemonpokopia/electricity.shtml",
+  "sourceHash": "fixture-electricity-source-hash",
+  "text": "Every item that requires electricity will require 1 unit of electricity except for String Lights and Surface Lights. You can have no more than 64 in any combination of Mini Generators, Windmills, Waterwheels or Furnaces, but you cannot have more than 1024 electric items at any one time. Each Utility pole or Wireless transmitter can connect to up to 20 things at once. The power generated cannot go more than 5 vertical blocks up or down at any one time. When you have placed over 256 transmitters in an area, subsequent transmitters no longer work. A Charging Station can display up to 40 units of electricity with each light showing it has 8 units of electricity stored.",
+  "tables": [
+    {
+      "tableIndex": 2,
+      "caption": "List of items that generate electricity",
+      "rows": [
+        {
+          "rowIndex": 1,
+          "cells": [
+            {
+              "columnIndex": 1,
+              "text": "Picture",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 2,
+              "text": "Name",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 3,
+              "text": "Description",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 4,
+              "text": "Units of Electricity Generated",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 5,
+              "text": "Renewed?",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "cells": [
+            {
+              "columnIndex": 1,
+              "text": "",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 2,
+              "text": "Mini generator",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 3,
+              "text": "Place this anywhere",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 4,
+              "text": "5",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 5,
+              "text": "Automatic",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            }
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "cells": [
+            {
+              "columnIndex": 1,
+              "text": "",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 2,
+              "text": "Windmill kit",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 3,
+              "text": "Wind generator",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 4,
+              "text": "10 standard 20 high-altitude",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 5,
+              "text": "Automatic",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tableIndex": 3,
+      "caption": "List of items that transmit electricity",
+      "rows": [
+        {
+          "rowIndex": 1,
+          "cells": [
+            {
+              "columnIndex": 1,
+              "text": "Picture",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 2,
+              "text": "Name",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 3,
+              "text": "Description",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 4,
+              "text": "Distance",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 5,
+              "text": "Size",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "cells": [
+            {
+              "columnIndex": 1,
+              "text": "",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 2,
+              "text": "Utility Pole",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 3,
+              "text": "Transmit electricity",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 4,
+              "text": "10 blocks 15 between transmitters",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            },
+            {
+              "columnIndex": 5,
+              "text": "1x1x3",
+              "isHeader": false,
+              "colspan": 1,
+              "rowspan": 1,
+              "links": [],
+              "images": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

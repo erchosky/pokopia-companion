@@ -1,0 +1,37 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+.turbo/
+dist/
+coverage/
+playwright-report/
+test-results/
+output/playwright/
+*.log
+*.tsbuildinfo
+
+# Immutable private research source and generated derivatives.
+Pokopia-KB-FULL*.zip
+data/source/snapshots/**
+!data/source/snapshots/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
+data/canonical/**
+!data/canonical/.gitkeep
+data/audits/**
+!data/audits/.gitkeep
+
+# Local review/delivery archives and generated audit output (too large or private to version).
+Pokopia-Companion-*.zip
+Pokopia-Companion-*.zip*.sha256
+audit-data/
+audit-results/
+.playwright-cli/
+output/
+
+# iCloud Drive conflict copies (e.g. "session 2.ts").
+* [0-9].*
+* [0-9]

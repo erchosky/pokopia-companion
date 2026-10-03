@@ -1,0 +1,36 @@
+{
+  "name": "@pokopia/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --passWithNoTests"
+  },
+  "dependencies": {
+    "@pokopia/game-data": "*",
+    "@pokopia/goals": "*",
+    "@pokopia/intelligence": "*",
+    "@pokopia/knowledge": "*",
+    "@pokopia/planner": "*",
+    "@pokopia/rules": "*",
+    "@pokopia/scoring": "*",
+    "@pokopia/security": "*",
+    "@pokopia/search": "*",
+    "@pokopia/ui": "*",
+    "next": "16.3.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.8.3",
+    "vitest": "3.2.4"
+  }
+}

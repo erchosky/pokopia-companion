@@ -1,0 +1,24 @@
+{
+  "name": "@pokopia/ingestion",
+  "version": "3.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "audit": "tsx src/cli.ts audit",
+    "process": "tsx src/cli.ts process",
+    "validate": "tsx src/cli.ts validate",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "better-sqlite3": "13.0.3",
+    "cheerio": "1.1.2"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "9.6.0",
+    "@types/node": "22.20.1",
+    "tsx": "4.23.11",
+    "typescript": "5.8.3",
+    "vitest": "3.2.4"
+  }
+}

@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+@import '@pokopia/ui/styles.css';
+body {
+  background: #f3f5f2;
+}

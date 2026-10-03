@@ -1,0 +1,23 @@
+{
+  "snapshotId": "serebii-pokopia-20260809T005646",
+  "capturedAt": "2026-08-08T22:56:46.578278Z",
+  "archive": "Pokopia-KB-FULL-20260809-005646.zip",
+  "sha256": "251f4b0e5d87a3857d6ddf98294a99a2f9f682f3f022fb93be4ffd95bf00987c",
+  "archiveBytes": 1044301394,
+  "uncompressedBytes": 1824914472,
+  "entryCount": 27986,
+  "pageCount": 2532,
+  "rawHtmlBytes": 379301412,
+  "sourceRoot": "https://www.serebii.net/pokemonpokopia/",
+  "sourceDomains": ["www.serebii.net"],
+  "parserVersion": "3.0",
+  "canonicalParserVersion": "3.1.0",
+  "extractedRelativePath": "data/source/snapshots/20260809/Pokopia-KB-FULL",
+  "masterIndexRelativePath": "00_INDEX/MASTER_INDEX.json",
+  "masterIndexSha256": "eeb284e195e74106b03f768442904c751e1cbf69c7a0633ff6bc907e37c81aff",
+  "sqliteRelativePath": "pokopia.sqlite",
+  "sqliteBytes": 43814912,
+  "sqliteSha256": "0cfe46a2b1698679f8142fb29bc4e18452194c3f52c8df86ea4701e9ad59c8c0",
+  "immutable": true,
+  "privateResearchOnly": true
+}

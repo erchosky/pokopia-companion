@@ -1,0 +1,32 @@
+{
+  "name": "@pokopia/db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "build": "tsc --noEmit",
+    "lint": "tsc --noEmit",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:postgres": "node ./scripts/test-postgres.mjs",
+    "migrate": "tsx ./src/migrate.ts",
+    "seed": "tsx ./src/seed.ts seed",
+    "seed:dry": "tsx ./src/seed.ts dry-run",
+    "validate": "tsx ./src/seed.ts validate"
+  },
+  "dependencies": {
+    "@pokopia/domain": "0.1.0",
+    "@pokopia/game-data": "*",
+    "pg": "8.23.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.3.0",
+    "@types/pg": "8.21.0",
+    "tsx": "4.23.11",
+    "typescript": "5.8.3",
+    "vitest": "3.2.4"
+  }
+}

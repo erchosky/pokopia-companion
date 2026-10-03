@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.serebii.net/pokemonpokopia/build/windmillkit.shtml",
+  "sourceHash": "c542ff0b0c4b475808bea6cc83534bbdd38709d8a761b1d82516e3d502f46203",
+  "text": "Windmill kit Time Required 1 hour Size Width: 2 Depth: 2 Height: 5 Materials Pokémon Lumber5 Twine5 2 Pokémon including the following specialties Build",
+  "tables": [
+    {
+      "tableIndex": 1,
+      "rows": [
+        { "cells": [{ "text": "Windmill kit" }] },
+        {
+          "cells": [
+            { "text": "Concept" },
+            { "text": "Floors" },
+            { "text": "Liveable Pokémon" },
+            { "text": "Time Required" },
+            { "text": "Size" }
+          ]
+        },
+        {
+          "cells": [
+            { "text": "Overworld" },
+            { "text": "" },
+            { "text": "0" },
+            { "text": "1 hour" },
+            { "text": "Width: 2Depth: 2Height: 5" }
+          ]
+        }
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "rows": [
+        { "cells": [{ "text": "Materials" }, { "text": "Pokémon" }] },
+        {
+          "cells": [
+            { "text": "Lumber5Twine5" },
+            { "text": "2 Pokémon including the following specialties Build" }
+          ]
+        }
+      ]
+    }
+  ]
+}
